@@ -1,0 +1,38 @@
+
+DART Game  
+
+- characters 
+person (pc)
+Dartboards (npc)
+
+
+- story 
+The character has to destroy all the daryboards 
+
+
+- rules 
+only one chance to hit the dartboard, if miss then the board woudld dissapear.
+
+
+
+-Balance 
+
+the(npc) should stay for some seconds, 
+
+
+-Adaptivity 
+
+as level increses the speed of the board disapearing decreases
+
+
+- chance v skill 
+chance -clicking randomly and getting boards
+skill- getting majority of it 
+
+
+
+- Feedback 
+ no. of dart boards destroyed in one minute 
+
+
+
